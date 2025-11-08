@@ -42,7 +42,8 @@ class MainActivity : ComponentActivity() {
             Prac_6_8Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     //Preview_StretchedPurpleCircleOnBlue()
-                    PreviewUserProfile()
+                    //PreviewUserProfile()
+                    WaterTracker()
                 }
             }
         }
